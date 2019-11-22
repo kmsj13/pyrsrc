@@ -1,0 +1,4 @@
+install/build/
+install/dist/
+install/pyrsrc.egg-info/
+install/pyrsrc_mon.egg-info/
