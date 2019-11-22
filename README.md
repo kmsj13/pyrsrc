@@ -21,12 +21,24 @@ $ cd install
 $ sudo python setup.py install
 ```
 
+## Examples
+```bash
+cd examples
+```
+- getCPU.py
+- getProgramRunning.py
+- getRAM.py
+- getRunningTime.py
+- getStorage.py
+- getTemp.py
+
 ## Usage
 ```python
 import pyrsrc
 if __name__ == "__main__":
-  CPU = pyrsrc.getCPU();
 
+
+  CPU = pyrsrc.getCPU();
   RAM = pyrsrc.getRam();
   STORAGE = pyrsrc.getStorage();
   UPTIME = pyrsrc.getRunning();
