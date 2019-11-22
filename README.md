@@ -114,3 +114,4 @@ print CHECK['PROGRAM_CHECK']
 ## Future Plan
 1. Getting System Resource from Windows Machine
 2. Creating a simple dashboard
+3. Program Check by Passing Application Name
